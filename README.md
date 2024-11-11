@@ -1,1 +1,1 @@
-The content of code Belongs to Syed Rizwan Ali 
+This repository belongs to Syed Rizwan Ali 
